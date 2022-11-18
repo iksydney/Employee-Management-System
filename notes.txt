@@ -1,0 +1,6 @@
+windows communication foundation
+
+//Delete is not working for the parent entity(Company)
+
+//Ask question on the create and update company dto that is not working
+//Ask question on why employee cant be left null when the company is been created after adding the validate filter method
